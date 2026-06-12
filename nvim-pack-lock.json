@@ -43,6 +43,10 @@
     "nvim-treesitter": {
       "rev": "4916d6592ede8c07973490d9322f187e07dfefac",
       "src": "https://github.com/nvim-treesitter/nvim-treesitter"
+    },
+    "vague.nvim": {
+      "rev": "788697064264bed8390b52ca2ac9906a96712120",
+      "src": "https://github.com/vague2k/vague.nvim"
     }
   }
 }
