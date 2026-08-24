@@ -15,6 +15,7 @@ map("n", "<leader>q", ":quit<CR>")
 map("n", "<leader>ff", vim.lsp.buf.format)
 map("n", "<leader>ca", vim.lsp.buf.code_action)
 map("n", "<leader>cd", vim.lsp.buf.definition)
+map("n", "<leader>fe", ":Ex<CR>")
 
 
 vim.pack.add({
